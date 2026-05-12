@@ -24,4 +24,4 @@ graph T {
         7 -- 6; [label="638"]
         7 -- 8; [label="457"]
         8 -- 7; [label="457"]
-}
+}// Proyecto 4 Prim y Kruskal

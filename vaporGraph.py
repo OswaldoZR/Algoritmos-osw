@@ -679,3 +679,4 @@ if __name__ == "__main__":
     G.prim().save("6_Dorogovtsev_prim_200")
     G.kruskalI().setAll(None).save("6_Dorogovtsev_kI_200")
     pass;
+# Proyecto 4 Prim y Kruskal
