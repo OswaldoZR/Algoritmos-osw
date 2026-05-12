@@ -61,4 +61,4 @@ htmlcov/
 # Archivos compilados
 # =========================
 build/
-dist/
+dist/# Archivos del proyecto
