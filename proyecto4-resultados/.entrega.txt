@@ -1,1 +1,1 @@
-Proyecto 4 Terminado
+Kruskal y Prim
