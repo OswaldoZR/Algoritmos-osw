@@ -131,3 +131,4 @@ if __name__ == "__main__":
     testBusqueda( gDorogovtsevMendes,100, prefijo=("6_Dorogovtsev_100") )
     testBusqueda( gDorogovtsevMendes,500, prefijo=("6_Dorogovtsev_500") )
 
+# Pruebas realizadas
