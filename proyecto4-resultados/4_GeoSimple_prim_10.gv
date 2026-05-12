@@ -35,4 +35,4 @@ graph T {
 	9 -- 7; [label="9"]
 	3 -- 2; [label="2"]
 	8 -- 1; [label="7"]
-}
+}// Kruskal y Prim

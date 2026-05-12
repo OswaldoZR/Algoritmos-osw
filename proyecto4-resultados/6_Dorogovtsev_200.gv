@@ -993,4 +993,4 @@ graph G {
 	198 -- 0; [label="5"]
 	199 -- 0; [label="3"]
 	199 -- 1; [label="6"]
-}
+}// Kruskal y Prim

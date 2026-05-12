@@ -597,4 +597,4 @@ graph T {
 	198 -- 197; [label="2"]
 	199 -- 179; [label="9"]
 	199 -- 198; [label="8"]
-}
+}// Kruskal y Prim

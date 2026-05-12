@@ -27,4 +27,4 @@ graph S {
 	8(7) -- 0(7); [label="5"]
 	9(3) -- 0(3); [label="3"]
 	2(2) -- 0(2); [label="4"]
-}
+}// Kruskal y Prim

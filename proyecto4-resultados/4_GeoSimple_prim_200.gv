@@ -1691,4 +1691,4 @@ graph T {
 	181 -- 171; [label="2"]
 	181 -- 183; [label="2"]
 	182 -- 197; [label="4"]
-}
+}// Kruskal y Prim

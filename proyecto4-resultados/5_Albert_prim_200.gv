@@ -586,4 +586,4 @@ graph T {
 	20 -- 75; [label="6"]
 	20 -- 8; [label="2"]
 	112 -- 0; [label="5"]
-}
+}// Kruskal y Prim

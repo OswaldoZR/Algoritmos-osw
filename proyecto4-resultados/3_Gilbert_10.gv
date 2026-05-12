@@ -45,4 +45,4 @@ graph G {
 	9 -- 8; [label="4"]
 	9 -- 1; [label="9"]
 	9 -- 3; [label="2"]
-}
+}// Kruskal y Prim

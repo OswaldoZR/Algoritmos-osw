@@ -77,4 +77,4 @@ graph T {
 	169 -- 38; [label="3"]
 	181 -- 25; [label="2"]
 	197 -- 68; [label="5"]
-}
+}// Kruskal y Prim

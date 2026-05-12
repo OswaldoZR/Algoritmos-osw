@@ -43,4 +43,4 @@ graph G {
 	8 -- 1; [label="6"]
 	9 -- 2; [label="5"]
 	9 -- 1; [label="5"]
-}
+}// Kruskal y Prim

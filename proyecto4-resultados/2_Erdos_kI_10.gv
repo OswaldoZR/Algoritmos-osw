@@ -27,4 +27,4 @@ graph G {
 	9(True) -- 5(True); [label="2"]
 	9(True) -- 7(True); [label="2"]
 	9(True) -- 6(True); [label="1"]
-}
+}// Kruskal y Prim

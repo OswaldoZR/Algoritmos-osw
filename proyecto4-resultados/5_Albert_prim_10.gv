@@ -27,4 +27,4 @@ graph T {
 	7 -- 6; [label="9"]
 	7 -- 9; [label="7"]
 	9 -- 7; [label="7"]
-}
+}// Kruskal y Prim

@@ -16577,4 +16577,4 @@ graph G {
 	199 -- 186; [label="9"]
 	199 -- 189; [label="9"]
 	199 -- 196; [label="3"]
-}
+}// Kruskal y Prim

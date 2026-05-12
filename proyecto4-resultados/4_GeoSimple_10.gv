@@ -99,4 +99,4 @@ graph GS {
 	9 -- 6; [label="6"]
 	9 -- 7; [label="2"]
 	9 -- 8; [label="4"]
-}
+}// Kruskal y Prim

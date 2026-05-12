@@ -239,4 +239,4 @@ graph G {
 	169(True) -- 38(True); [label="5"]
 	181(True) -- 25(True); [label="9"]
 	197(True) -- 68(True); [label="7"]
-}
+}// Kruskal y Prim

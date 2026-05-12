@@ -837,4 +837,4 @@ graph T {
 	107 -- 108; [label="5"]
 	107 -- 106; [label="2"]
 	180 -- 160; [label="7"]
-}
+}// Kruskal y Prim

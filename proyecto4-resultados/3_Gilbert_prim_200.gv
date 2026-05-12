@@ -1409,4 +1409,4 @@ graph T {
 	170 -- 33; [label="3"]
 	170 -- 140; [label="6"]
 	83 -- 52; [label="4"]
-}
+}// Kruskal y Prim

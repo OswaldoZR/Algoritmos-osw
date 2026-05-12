@@ -27,4 +27,4 @@ graph GS {
 	8 -- 7; [label="8"]
 	8 -- 3; [label="6"]
 	9 -- 1; [label="1"]
-}
+}// Kruskal y Prim

@@ -8705,4 +8705,4 @@ graph GS {
 	199 -- 196; [label="9"]
 	199 -- 197; [label="3"]
 	199 -- 198; [label="7"]
-}
+}// Kruskal y Prim
