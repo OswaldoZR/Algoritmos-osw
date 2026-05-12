@@ -3,41 +3,13 @@
 # =========================
 __pycache__/
 *.py[cod]
-*$py.class
+*.pyo
+*.pyd
 
-# =========================
-# Virtual environments
-# =========================
-.venv/
+# Entornos virtuales
 venv/
-env/
-ENV/
-
-# =========================
-# Python packaging
-# =========================
-build/
-dist/
-*.egg-info/
-.eggs/
-
-# =========================
-# Test / coverage
-# =========================
-.pytest_cache/
-.coverage
-htmlcov/
-
-# =========================
-# Jupyter
-# =========================
-.ipynb_checkpoints/
-
-# =========================
-# IDEs
-# =========================
-.vscode/
-.idea/
+.env/
+.venv/
 
 # =========================
 # macOS
@@ -45,15 +17,48 @@ htmlcov/
 .DS_Store
 
 # =========================
-# Logs and temporary files
+# VS Code
 # =========================
-*.log
-*.tmp
-*~
-.localhistory/
+.vscode/
 
 # =========================
-# Optional generated folders
+# Archivos temporales
 # =========================
-# results/
-# output/
+*.tmp
+*.log
+
+# =========================
+# Graphviz
+# =========================
+*.gv.pdf
+*.gv.png
+*.gv.svg
+
+# =========================
+# Resultados generados
+# =========================
+Proyecto3-resultados/
+
+# =========================
+# Archivos de sistema Git
+# =========================
+*.swp
+*~
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Coverage / testing
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# Archivos compilados
+# =========================
+build/
+dist/
